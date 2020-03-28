@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robotfriends-pwa/static/css/main.c63257f5.chunk.css",
-    "main.js": "/robotfriends-pwa/static/js/main.4af6cccc.chunk.js",
-    "main.js.map": "/robotfriends-pwa/static/js/main.4af6cccc.chunk.js.map",
+    "main.css": "/robotfriends-pwa/static/css/main.0cca732b.chunk.css",
+    "main.js": "/robotfriends-pwa/static/js/main.2f327e03.chunk.js",
+    "main.js.map": "/robotfriends-pwa/static/js/main.2f327e03.chunk.js.map",
     "runtime-main.js": "/robotfriends-pwa/static/js/runtime-main.afb6efe4.js",
     "runtime-main.js.map": "/robotfriends-pwa/static/js/runtime-main.afb6efe4.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/robotfriends-pwa/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.9a01d7b8.chunk.js": "/robotfriends-pwa/static/js/2.9a01d7b8.chunk.js",
     "static/js/2.9a01d7b8.chunk.js.map": "/robotfriends-pwa/static/js/2.9a01d7b8.chunk.js.map",
     "index.html": "/robotfriends-pwa/index.html",
-    "precache-manifest.9dc9a786e9135c4f32f3fcdb1bb98527.js": "/robotfriends-pwa/precache-manifest.9dc9a786e9135c4f32f3fcdb1bb98527.js",
+    "precache-manifest.c3dc67c7250f7614727c31fda4ac6150.js": "/robotfriends-pwa/precache-manifest.c3dc67c7250f7614727c31fda4ac6150.js",
     "service-worker.js": "/robotfriends-pwa/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/robotfriends-pwa/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.c63257f5.chunk.css.map": "/robotfriends-pwa/static/css/main.c63257f5.chunk.css.map",
+    "static/css/main.0cca732b.chunk.css.map": "/robotfriends-pwa/static/css/main.0cca732b.chunk.css.map",
     "static/js/2.9a01d7b8.chunk.js.LICENSE.txt": "/robotfriends-pwa/static/js/2.9a01d7b8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/robotfriends-pwa/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.afb6efe4.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.9a01d7b8.chunk.js",
-    "static/css/main.c63257f5.chunk.css",
-    "static/js/main.4af6cccc.chunk.js"
+    "static/css/main.0cca732b.chunk.css",
+    "static/js/main.2f327e03.chunk.js"
   ]
 }
